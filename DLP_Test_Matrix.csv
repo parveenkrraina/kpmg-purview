@@ -1,0 +1,6 @@
+TestCase,File,Recipient,ExpectedResult,PolicyLogic
+TC01,Employee_Personal_Tax_Allowed.docx,employee personal Gmail,Allow with audit or user justification,Personal label and no client EDM match
+TC02,Client_Tax_Data_Blocked_EDM.docx,personal Gmail,Block,EDM client tax ID match plus personal destination
+TC03,Generic_Tax_Warn.docx,personal Gmail,Warn with justification,Tax keywords but no client EDM or Client Tax label
+TC04,Client_Tax_Data_Labeled_Blocked.docx,personal Outlook.com,Block,Sensitivity label Highly Confidential - Client Tax Data
+TC05,Client_Tax_Data_Blocked_EDM.docx,approved secure domain,Allow or restrict based on exception,Approved domain exception and encryption requirement

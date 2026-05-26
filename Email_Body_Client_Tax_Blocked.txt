@@ -1,0 +1,11 @@
+Subject: Client tax filing package for review
+
+Hi,
+
+Please find attached the client tax filing package for Contoso Capital Ltd.
+Client Tax ID: KPMG-TAX-458921
+Engagement ID: ENG-TAX-100001
+This includes client tax return, corporate tax advisory notes, and financial report details.
+
+Regards,
+Tax Team

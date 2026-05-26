@@ -1,0 +1,3 @@
+Subject: Tax calculation notes
+
+These are generic tax calculation notes. The document references tax deduction, financial year, and income tax calculation but does not include a known client tax identifier or engagement ID.

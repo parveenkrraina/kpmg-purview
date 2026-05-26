@@ -1,0 +1,4 @@
+LabelName,Scope,RecommendedProtection,DemoPurpose
+Personal - Employee Tax,"Files, emails",No encryption or employee-only optional,Allow personal tax scenario with audit
+Confidential - KPMG Internal Tax,"Files, emails",KPMG internal users only; markings,Internal business tax data
+Highly Confidential - Client Tax Data,"Files, emails, groups/sites if enabled",Restrict to Tax Practice or Client Engagement group; watermark,Block personal email and external unmanaged sharing
